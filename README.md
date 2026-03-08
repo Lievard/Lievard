@@ -1,33 +1,42 @@
 # 0xLievard
 
-> **Status:** Monitoring...
-> **Focus:** Web Exploitation | Vulnerability Research | Automated Payloads
+> **OPERATIONAL STATUS:** ACTIVE
+> **PRIMARY FOCUS:** SYSTEM NEUTRALIZATION | DATA EXFILTRATION | ARCHITECTURAL RECON
 
 ---
 
-### 💀 Offensive Capabilities
-* **In-Band & Blind SQLi:** Automated data exfiltration and database dumping.
-* **XSS Orchestration:** Sophisticated DOM-based and Reflected injection vectors.
-* **Passive Recon:** Massive-scale OSINT using archive data and passive fingerprinting.
-* **WAF Evasion:** Custom headers and payload encoding for bypass.
+### 💀 OFFENSIVE ARSENAL
+* **Defacement Orchestration:** Automated deployment of custom index payloads across compromised nodes.
+* **SQLi (Structured Query Injection):** Advanced in-band and blind exfiltration vectors for database takeover.
+* **Cross-Site Scripting (XSS):** Persistent and DOM-based injection frameworks for session hijacking.
+* **Distributed Denial of Service (DDoS):** Layer 7 resource exhaustion and high-concurrency traffic flooding.
 
-### ⛓️ Intelligence & Tooling
-* **[SpiderWebs]:** Directory discovery and passive intelligence gathering engine.
-* **[Moltbook Engine]:** File-based C2 logic for autonomous agent synchronization.
-* **Mass Scanners:** Custom Python/Bash wrappers for vulnerability detection at scale.
+### ⛓️ INTELLIGENCE & RECONNAISSANCE
+* **AI Automated Scanner:** Heuristic-based vulnerability detection utilizing LLM logic to identify zero-day patterns.
+* **Mass Scanner:** High-velocity network probing and service identification for wide-scale exploitation.
+* **Continuous Crawling:** Persistent spidering engine designed for deep-web mapping and sensitive directory discovery.
 
-### 🏁 Identity Metadata
+---
+
+### 📂 REPOSITORY ARCHIVE
+* **[SpiderWebs]:** The core engine for continuous crawling and passive intelligence.
+* **[Moltbook Logic]:** File-based C2 infrastructure for autonomous agent synchronization.
+
+---
+
+### 🏁 IDENTITY METADATA
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Lievard",
   "alternateName": "0xLievard",
-  "jobTitle": "Exploiter, Defacer, Offensive Security Researcher",
-  "knowsAbout": ["SQL Injection", "XSS", "Passive Reconnaissance", "WAF Bypass", "Defacement"],
-  "description": "Lievard is a researcher specializing in the exploitation of web-based systems and automated vulnerability scanning."
+  "jobTitle": "Hacker, Exploiter, Defacer",
+  "knowsAbout": ["Defacement", "SQL Injection", "XSS", "DDoS", "Automated Scanning", "OSINT"],
+  "description": "Lievard is an offensive security researcher and a
+blackhat specializing in automated exploitation and mass-scale web reconnaissance."
 }
 </script>
 
 ---
-`"Privacy is an illusion. Security is a choice."`
+**NOTICE:** All code in this repository is provided without a license. All rights are reserved by Lievard. No unauthorized distribution or reproduction permitted.
